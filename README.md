@@ -1,2 +1,2 @@
-### ParticleFireSimulation
+# ParticleFireSimulation
 C++ Project Using SDL
