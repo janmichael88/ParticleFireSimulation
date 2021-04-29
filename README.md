@@ -9,3 +9,5 @@ You can follow along with this really great tutorial at Udemy, and it's totally 
 [Cave of Programming](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
 
 Here's a video file!
+
+[Video Clip](https://youtu.be/uM3SLsniGLg)
